@@ -1,0 +1,8 @@
+file: gitlab-ce_14.6.0-ce.0_amd64.deb 
+url: https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/focal/gitlab-ce_14.6.0-ce.0_amd64.deb
+download_url: https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/focal/gitlab-ce_14.6.0-ce.0_amd64.deb/download.deb
+hashes:
+MD5	270d80f2d9e481176d06ba61d705c797
+SHA1	e89f3e36f2b7878cc616de5dde18d8b38af50acc
+SHA256	106c665d99d3cd25094d73e9e0b55a575b53562fe00f01f3724f125a632ef749
+SHA512	fd1bf55a94998072d0219f3f2a5560078cb42d13a7ea8106616424a21246e6c370f080898c6f4c958e2a00b7ce697edd5425a36a251f2825e0583d16a925bc95 
